@@ -1,0 +1,14 @@
+[package]
+name = "Rust_High_Frequency_Trading_System"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+amiquip = "0.4.2"
+bincode = "1.3.3"
+serde = "1.0.151"
+bma-benchmark = "0.0.19"
+perf_monitor = "0.2.0"
