@@ -1,0 +1,5 @@
+12345	Hamza	Yusuf	200
+23456	Naom	Chomsky	250
+34567	Angela	Merkel	500
+45678	Tim	Lee	150
+61278	Yee Sin	Thean	500
