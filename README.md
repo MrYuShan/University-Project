@@ -6,6 +6,6 @@ Assembly - CPP - Java - LabView - Matlab - Python - R - Rust - SQL
 From Blockchain to Image Processing, Concurrency, and more...
 
 I learn a lot during my university years
--------------------------
-Contact me for more info.
--------------------------
+
+**Contact me for more info.**
+
