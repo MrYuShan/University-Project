@@ -1,11 +1,23 @@
 # University-Project
 These are my university programming assignments (2020-2023), I might have missed one or two.
 
-Assembly - CPP - Java - LabView - Matlab - Python - R - Rust - SQL
+## Languages/Softwares Used
+- Assembly
+- C++
+- Java
+- LabView
+- Matlab
+- Python, Python Notebook
+- R
+- Rust
+- SQL
 
-From Blockchain to Image Processing, Concurrency, and more...
-
-I learned a lot during my university years
+## Technical Domains
+- Blockchain
+- Image Processing
+- Concurrency
+- Data Structure
+- Machine Learning
 
 **Contact me for more info.**
 
